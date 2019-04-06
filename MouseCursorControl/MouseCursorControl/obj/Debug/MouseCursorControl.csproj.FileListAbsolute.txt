@@ -1,0 +1,30 @@
+E:\Visual Studio Project\C#\MouseCursorControl\MouseCursorControl\bin\Debug\MouseCursorControl.exe.config
+E:\Visual Studio Project\C#\MouseCursorControl\MouseCursorControl\bin\Debug\MouseCursorControl.exe
+E:\Visual Studio Project\C#\MouseCursorControl\MouseCursorControl\bin\Debug\MouseCursorControl.pdb
+E:\Visual Studio Project\C#\MouseCursorControl\MouseCursorControl\bin\Debug\Microsoft.Kinect.dll
+E:\Visual Studio Project\C#\MouseCursorControl\MouseCursorControl\obj\Debug\MouseCursorControl.csprojResolveAssemblyReference.cache
+E:\Visual Studio Project\C#\MouseCursorControl\MouseCursorControl\obj\Debug\MainWindow.baml
+E:\Visual Studio Project\C#\MouseCursorControl\MouseCursorControl\obj\Debug\MainWindow.g.cs
+E:\Visual Studio Project\C#\MouseCursorControl\MouseCursorControl\obj\Debug\App.g.cs
+E:\Visual Studio Project\C#\MouseCursorControl\MouseCursorControl\obj\Debug\MouseCursorControl_MarkupCompile.cache
+E:\Visual Studio Project\C#\MouseCursorControl\MouseCursorControl\obj\Debug\MouseCursorControl.g.resources
+E:\Visual Studio Project\C#\MouseCursorControl\MouseCursorControl\obj\Debug\MouseCursorControl.Properties.Resources.resources
+E:\Visual Studio Project\C#\MouseCursorControl\MouseCursorControl\obj\Debug\MouseCursorControl.csproj.GenerateResource.Cache
+E:\Visual Studio Project\C#\MouseCursorControl\MouseCursorControl\obj\Debug\MouseCursorControl.exe
+E:\Visual Studio Project\C#\MouseCursorControl\MouseCursorControl\obj\Debug\MouseCursorControl.pdb
+G:\MouseCursorControl\MouseCursorControl\bin\Debug\MouseCursorControl.exe.config
+G:\MouseCursorControl\MouseCursorControl\obj\Debug\MouseCursorControl.exe
+G:\MouseCursorControl\MouseCursorControl\obj\Debug\MouseCursorControl.pdb
+D:\文件\编程\C++\作业\水果忍者\MouseCursorControl\MouseCursorControl\bin\Debug\MouseCursorControl.exe.config
+D:\文件\编程\C++\作业\水果忍者\MouseCursorControl\MouseCursorControl\obj\Debug\MouseCursorControl.exe
+D:\文件\编程\C++\作业\水果忍者\MouseCursorControl\MouseCursorControl\obj\Debug\MouseCursorControl.pdb
+D:\文件\编程\C++\作业\水果忍者\MouseCursorControl\MouseCursorControl\obj\Debug\MouseCursorControl.csprojResolveAssemblyReference.cache
+D:\文件\编程\C++\作业\水果忍者\MouseCursorControl\MouseCursorControl\obj\Debug\MainWindow.baml
+D:\文件\编程\C++\作业\水果忍者\MouseCursorControl\MouseCursorControl\obj\Debug\MainWindow.g.cs
+D:\文件\编程\C++\作业\水果忍者\MouseCursorControl\MouseCursorControl\obj\Debug\App.g.cs
+D:\文件\编程\C++\作业\水果忍者\MouseCursorControl\MouseCursorControl\obj\Debug\MouseCursorControl_MarkupCompile.cache
+D:\文件\编程\C++\作业\水果忍者\MouseCursorControl\MouseCursorControl\obj\Debug\MouseCursorControl.g.resources
+D:\文件\编程\C++\作业\水果忍者\MouseCursorControl\MouseCursorControl\obj\Debug\MouseCursorControl.Properties.Resources.resources
+D:\文件\编程\C++\作业\水果忍者\MouseCursorControl\MouseCursorControl\obj\Debug\MouseCursorControl.csproj.GenerateResource.Cache
+D:\文件\编程\C++\作业\水果忍者\MouseCursorControl\MouseCursorControl\bin\Debug\MouseCursorControl.exe
+D:\文件\编程\C++\作业\水果忍者\MouseCursorControl\MouseCursorControl\bin\Debug\MouseCursorControl.pdb

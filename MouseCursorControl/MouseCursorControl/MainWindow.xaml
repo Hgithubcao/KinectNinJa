@@ -1,0 +1,24 @@
+﻿<Window x:Name="Window" x:Class="MouseCursorControl.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525" Closing="WindowClosing">
+    <Grid Loaded="WindowLoaded">
+        <Image x:Name="imgDepth" Stretch="Fill"/>
+        <TextBlock HorizontalAlignment="Left" Name="tbInfo" VerticalAlignment="Top" FontSize="56" Margin="0" />
+        <MediaElement  Name="media" Margin="13,35,14,0"  Height="100" VerticalAlignment="Top">
+            <MediaElement.Triggers>
+                <EventTrigger RoutedEvent="MediaElement.Loaded">
+                    <EventTrigger.Actions>
+                        <BeginStoryboard>
+                            <Storyboard>
+                                <MediaTimeline Source="D:\\文件\\编程\\C++\\作业\\水果忍者\\MouseCursorControl\\MouseCursorControl\\Fruitninja.mp3" Storyboard.TargetName="media"  
+                 RepeatBehavior="Forever" />
+                            </Storyboard>
+                        </BeginStoryboard>
+                    </EventTrigger.Actions>
+                </EventTrigger>
+            </MediaElement.Triggers>
+        </MediaElement>
+        
+    </Grid>
+</Window>
